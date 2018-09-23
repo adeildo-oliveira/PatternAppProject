@@ -101,7 +101,7 @@ namespace PatterAppProject
             Console.WriteLine(xml);
             #endregion
 
-            Console.ReadKey();
+            //Console.ReadKey();
         }
     }
 }
